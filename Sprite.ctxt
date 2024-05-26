@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Sprite
+comment0.text=\r\n\ Store\ data\ and\ methods\r\n\ for\ movable\ images\ on\ screen\ in\ a\ game.\r\n
+comment1.params=_x\ _y\ _width\ _height\ fileName
+comment1.target=Sprite(double,\ double,\ double,\ double,\ java.lang.String)
+comment2.params=dx\ dy
+comment2.target=void\ move(double,\ double)
+comment3.params=context
+comment3.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+comment4.params=other
+comment4.target=boolean\ overlaps(Sprite)
+comment5.params=
+comment5.target=void\ wrap()
+numComments=6

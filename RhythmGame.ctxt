@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RhythmGame
+comment0.text=\r\n\ \ \ \r\n\ \ \ JavaFX\ API\:\ https\://openjfx.io/javadoc/11/\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=name\ bpm
+comment2.target=void\ reset(java.lang.String,\ double)
+comment3.params=noteList
+comment3.target=void\ checkNote(java.util.ArrayList)
+comment4.params=noteList\ note
+comment4.target=boolean\ autoPlay(java.util.ArrayList,\ Sprite)
+comment5.params=mainStage
+comment5.target=void\ start(javafx.stage.Stage)
+comment6.params=nanoSeconds
+comment6.target=void\ handle(long)
+numComments=7
